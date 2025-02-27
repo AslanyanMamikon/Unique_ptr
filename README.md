@@ -1,11 +1,11 @@
 # Unique_ptr
 **Team Members`**
-  Stepanyan Mery,
-  Aslanyan Mamikon,
-  Lazaryan Nane,
-  Arakelyan Anna,
-  Galstyan Anna,
-  Sharopetrosyan Mane
+ * Stepanyan Mery
+ * Aslanyan Mamikon
+ * Lazaryan Nane
+ * Arakelyan Anna
+ * Galstyan Anna
+ * Sharopetrosyan Mane
 
 **Overview:**
 This project demonstrates a custom implementation of a unique pointer (u_ptr) in C++.
